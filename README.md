@@ -1,9 +1,9 @@
 Cryptocurrency Price Tracker
-Easily compare and track your favorite cryptocurrencies.
+Compare and track cryptocurrencies with ease.
 
-This app lets you:
+This app uses CoinGecko API to provide:
 
-View real-time prices for top cryptocurrencies
-Compare multiple cryptocurrencies side-by-side
-See market capitalization for each coin
-Discover trending cryptocurrencies
+Real-time prices for top cryptocurrencies
+Side-by-side comparisons
+Market capitalization data
+Trending cryptocurrency insights
